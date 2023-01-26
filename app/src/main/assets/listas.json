@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "name": "Huevos",
+      "image": "https://images.pexels.com/photos/161496/eggs-happen-food-ecology-161496.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 9.99,
+      "stock": 100
+    },
+    {
+      "name": "Fresas",
+      "image": "https://images.pexels.com/photos/46174/strawberries-berries-fruit-freshness-46174.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Lechuga",
+      "image": "https://images.pexels.com/photos/102123/pexels-photo-102123.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 29.99,
+      "stock": 25
+    },
+    {
+      "name": "Pan",
+      "image": "https://images.pexels.com/photos/461060/pexels-photo-461060.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Coca-Cola",
+      "image": "https://images.pexels.com/photos/4113664/pexels-photo-4113664.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Patatas",
+      "image": "https://images.pexels.com/photos/4110462/pexels-photo-4110462.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Queso",
+      "image": "https://images.pexels.com/photos/4187780/pexels-photo-4187780.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Pta dientes",
+      "image": "https://images.pexels.com/photos/298611/pexels-photo-298611.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Leche",
+      "image": "https://www.shutterstock.com/image-vector/3d-milk-ad-template-product-600w-1924762745.jpg",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Moras",
+      "image": "https://images.pexels.com/photos/4022090/pexels-photo-4022090.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Tomates",
+      "image": "https://images.pexels.com/photos/3938343/pexels-photo-3938343.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Daniel's",
+      "image": "https://images.pexels.com/photos/543725/pexels-photo-543725.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Piña",
+      "image": "https://images.pexels.com/photos/6157056/pexels-photo-6157056.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Aguacate",
+      "image": "https://images.pexels.com/photos/3850652/pexels-photo-3850652.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Zanahorias",
+      "image": "https://images.pexels.com/photos/65174/pexels-photo-65174.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "name": "Pan Integral",
+      "image": "https://images.pexels.com/photos/137103/pexels-photo-137103.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "price": 19.99,
+      "stock": 50
+    }
+  ]
+}
